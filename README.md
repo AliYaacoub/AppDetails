@@ -5,7 +5,7 @@ My first mobile app using Android Studio, including all the features assigned in
 along with both the required and the bonus features.
 
 ### App Walk-though
-
+<img src="" width=200><br>
 ### Required User Stories
 - [x] 1. User sees custom text in a label - Hello from {name}!
 - [x] 2. User see's custom background color.
